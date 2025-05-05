@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TourismManagementSystem/1.0.0": {
+        "runtime": {
+          "TourismManagementSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TourismManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
